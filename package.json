@@ -1,0 +1,21 @@
+{
+  "name": "elevatorsaga",
+  "version": "1.4.0",
+  "description": "Elevator Saga: The elevator programming game",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.11.0",
+    "grunt-contrib-watch": "^0.6.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/magwo/elevatorsaga.git"
+  },
+  "author": "magwo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/magwo/elevatorsaga/issues"
+  },
+  "homepage": "https://github.com/magwo/elevatorsaga"
+}
